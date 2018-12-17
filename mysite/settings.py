@@ -25,7 +25,7 @@ SECRET_KEY = '42($17(%(&s_7$5sa*39e1to(2+y$#9_*7ul#tzv^a*4n+0#!r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://diankahm2.pythonanywhere.com/',]
 
 
 # Application definition
